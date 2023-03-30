@@ -50,7 +50,7 @@ const Admin = () => {
   ];
 
   return (
-    <Box m="1.5rem 2.5rem">
+    <Box m="1.5rem 1rem">
       <Header title="ADMINS" subtitle="List of admins" />
       <Box
         mt="40px"
